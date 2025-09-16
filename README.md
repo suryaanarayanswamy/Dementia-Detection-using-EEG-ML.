@@ -17,17 +17,14 @@ Python · TensorFlow/Keras · Scikit-learn · MNE · NumPy · Matplotlib
 - Preprocessing: filtering, downsampling, normalization.  
 
 ---
-## 🧩 Code Files (what to run)
+## Code Files (what to run)
 
 - `cnn-lstm with weights.ipynb` — **Main model** (AD vs FTD vs Healthy) with **class weights** → best results (~94%).
 - `cnn-lstm without weights.ipynb` — Same multiclass model **without class weights** (for comparison/ablation).
 - `binary.ipynb` — Binary setup (e.g., Dementia vs Healthy) to show the gap vs multiclass.
 - `Multiclass.ipynb` — Multiclass Model with Dimentia vs FTD vs Healthy
 
-**How to use:** Open any notebook → run cells top to bottom. For first-time setup:
-```bash
-pip install -r requirements.txt
-
+---
 
 ## How to Build / Extend  
 If you want to build from this project, you can:  
