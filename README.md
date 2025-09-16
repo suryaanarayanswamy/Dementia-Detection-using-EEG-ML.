@@ -23,7 +23,7 @@ Python · TensorFlow/Keras · Scikit-learn · MNE · NumPy · Matplotlib
 - `cnn-lstm without weights.ipynb` — Same multiclass model **without class weights** (for comparison/ablation).
 - `binary.ipynb` — Binary setup (e.g., Dementia vs Healthy) to show the gap vs multiclass.
 - `Multiclass.ipynb` — Multiclass Model with Dimentia vs FTD vs Healthy
-
+  
 ---
 
 ## How to Build / Extend  
